@@ -1,0 +1,10 @@
+.Appbar {
+    background-color: rgb(238, 227, 203);
+}
+
+.Toolbar {
+    font-size: 100px;
+    color: rgb(155, 171, 184);
+    text-decoration: none;
+    padding: 10px;
+}
